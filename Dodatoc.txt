@@ -1,0 +1,38 @@
+Тег	Опис
+<form>	Визначає HTML форму для користувальницького вводу
+<input>	Визначає елемент управління вводом
+<textarea>	Визначає багаторядковий елемент управління введенням (текстова область)
+<label>	Визначає мітку для елемента <input>
+<fieldset>	Групує пов’язані елементи в формі
+<legend>	Визначає заголовок для елемента <fieldset>
+<select>	Визначає випадаючий (розкриваючий) список
+<optgroup>	Визначає группу пов’язаних параметрів в випадаючому списку
+<option>	Визначає параметр в випадаючому списку
+<button>	Визначає клікабельну кнопку
+<datalist>	Визначає список попередньо визначених параметрів для елементів управління вводом
+<output>	Визначає результат розрахунку
+
+
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
